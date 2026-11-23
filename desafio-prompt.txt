@@ -1,0 +1,1 @@
+quero que você faça uma lista de 5 agrotoxicos menos para trabalhados na lavoura, com o objeto de fazer uma triagem , com uma classificação de 0 a 10 em cada produto... no contexto de uma educação diária de boas práticas na agronomia, deve ter o formato de lista simples, e sem uma linguagem tecnica, pois são trabalhadores simples sem um estudo rebuscado
